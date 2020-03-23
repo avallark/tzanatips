@@ -28,7 +28,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "index.html",
-    "revision": "6fc70d3cdd07cd5d7539caffaa9d868e"
+    "revision": "c6df78b259574103b4ba00b7a634ed41"
   },
   {
     "url": "posts/2020-03-19-about-this-template/index.html",
@@ -45,6 +45,10 @@ self.__precacheManifest = [
   {
     "url": "posts/2020-03-23-how-to-make-hand-sanitizer/index.html",
     "revision": "66c3527a0255a897caaecae772733c7b"
+  },
+  {
+    "url": "posts/2020-03-23-supplements/index.html",
+    "revision": "2df7a4c91ad8ec7724c43c68bcc76cc4"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
