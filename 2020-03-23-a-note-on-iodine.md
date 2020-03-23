@@ -1,9 +1,10 @@
---
-title: A note on Iodine
-date: 2020-03-23T17:00 
---
+---
+title: "A note on Iodine"
+date: 2020-03-23T18:30
+---
 
 # Povidone Iodine
+
 Povidone-iodine (PVP-I), also known as iodopovidone, is an antiseptic used for skin disinfection. In a study conducted in Japan [^1] PVP-I was fouond to be effective in inactivating a range of viruses including adeno-, mumps, rota-, polio- (types 1 and 3), coxsackie-, rhino-, herpes simplex, rubella, measles, influenza and human immunodeficiency viruses. PVP-I is found to be very effective and viruses doesnt seem to have developed any form of resistence to this antiseptic.
 
 ## What can we do with Iodine
