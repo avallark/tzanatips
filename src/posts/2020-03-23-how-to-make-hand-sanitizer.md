@@ -1,6 +1,6 @@
 ---
 title: "How to make your own Hand Sanitizers"
-date: 2020-03-20T14:00
+date: 2020-03-23T14:00
 ---
 
 Hand sanitizers have been recommended by the WHO to sanitize your hands in case you do not wash you hands with soap. Washing with soap (any soap) is still considered the best way to disinfect your hands. While you are at it, wash your face and arm with soap as well if you can. In case you cant wash, use a hand sanitizer.
