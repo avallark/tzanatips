@@ -28,7 +28,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "index.html",
-    "revision": "c6df78b259574103b4ba00b7a634ed41"
+    "revision": "e091950c8787524109dc8b4083786b1c"
   },
   {
     "url": "posts/2020-03-19-about-this-template/index.html",
@@ -48,7 +48,11 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020-03-23-supplements/index.html",
-    "revision": "2df7a4c91ad8ec7724c43c68bcc76cc4"
+    "revision": "d312e29548ad28056d8d6c7c3f7e0b84"
+  },
+  {
+    "url": "posts/2020-03-24-good-things-online-for-free/index.html",
+    "revision": "6847ec00d3de9f373dcdf04dfe1c88e7"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

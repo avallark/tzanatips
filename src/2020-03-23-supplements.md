@@ -26,7 +26,7 @@ Low Vitamin D3 levels promote viral epidemics. This is why traditionally the flu
 
 ### Iodine
 
-Iodine inactivates viruses. There are hardly any known virus in the past years which are not killed by Iodine. The salivary glands, nasal mucosa, and lungs all secrete mucus which contains iodine. But this happens only after the thyroid glad has had its fill of Iodine. Unfortunately [most of us are iodine difficient](http://iodocefol.com/brochure/iodocefol.html#sec-3-2-2) and the thyroid gland will use up all available iodine. If the daily iodine dose is above 3 mg for over 2 weeks, the thyroid gland becomes saturated and no longer takes up much iodine. Then, dietary iodine goes to other sites named above and is excreted into the upper respiratory and gastrointestinal tract mucus. It seems logical that air borne viruses become stuck in mucus and killed by free iodine.
+Iodine inactivates viruses. There are hardly any known virus in the past years which are not killed by Iodine. The salivary glands, nasal mucosa, and lungs all secrete mucus which contains iodine. But this happens only after the thyroid glad has had its fill of Iodine. Unfortunately [most of us are iodine difficient](http://iodocefol.com/brochure/iodocefol.html#sec-3-2-2) and the thyroid gland will use up all available iodine. If the daily iodine dose is above 3 mg for over 2 weeks, the thyroid gland becomes saturated and no longer takes up much iodine. Then, dietary iodine goes to other sites named above and is excreted into the upper respiratory and gastrointestinal tract mucus. It seems logical that air borne viruses become stuck in mucus and killed by free iodine. [^2]
 
 However, having 3 mg of Iodine will not be advised by doctors as our current RDA guidelines are at 150 micrograms of Iodine per day.
 
@@ -40,3 +40,4 @@ If you have access to professional Ayurveda doctors, you could inquire on immuni
 
 
 [^1] https://www.preprints.org/manuscript/202003.0235/v1
+[^2] [^2] https://pdfs.semanticscholar.org/bc37/c48fb2babb83d333d9e4193bf7960040222d.pdf?_ga=2.71665627.938116286.1584968335-388329458.1584968335
