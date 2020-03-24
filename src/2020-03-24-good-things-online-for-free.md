@@ -29,10 +29,6 @@ In response to the epidemic, [Cambridge Publishing, UK](https://www.cambridge.or
 
 Cost: Free
 
-### Broadway Musicals
-
-[Online Broadway Musical](https://www.insider.com/stream-broadway-musicals-plays-for-free-online-limited-time-coronavirus-2020-3) are also all free to stream.
-Cost: Free
 
 ### KhanAcademy
 

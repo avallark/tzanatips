@@ -52,7 +52,7 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/2020-03-24-good-things-online-for-free/index.html",
-    "revision": "6847ec00d3de9f373dcdf04dfe1c88e7"
+    "revision": "81c4fb3287a2a45cdc9a6c920813d495"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
